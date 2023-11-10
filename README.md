@@ -16,7 +16,8 @@
   
   ## Usage
   run npm i, follow the prompts, and create the README file 
-  
+  https://github.com/jmontiveros94/README-Generator/assets/134089282/ba14dbfc-06d0-4027-9bd9-f2b26e9a1098
+
   ## License
   MIT
   
