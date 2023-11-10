@@ -21,6 +21,6 @@
   },
   "homepage": "https://github.com/jmontiveros94/README-Generator#readme",
   "dependencies": {
-    "inquirer": "^9.2.11"
+    "inquirer": "8.2.4"
   }
 }
