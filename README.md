@@ -1,6 +1,6 @@
-# asodgn
+# README Generator
   ## Description
-  aosdnf
+  A README generator to help users create a detailed and clean README.MD file
   
   ## Table of Contents
   - [Description](#description)
@@ -12,20 +12,20 @@
   - [Questions](#questions)
   
   ## Installation
-  eosirj
+  visit jm.ontiveros94 for instructions on how to install the project
   
   ## Usage
-  goaenof
+  run npm i, follow the prompts, and create the README file 
   
   ## License
   MIT
   
   ## Contributing
-  goawen
+  You can contribute to this project by updating the prompts to suit your personal needs and criteria for your own personal README generator
   
   ## Tests
-  awoen
+  npm test
   
   ## Questions
-  For questions, please contact [goawen](mailto:asodngowen).
+  For questions, please contact [Jacob Ontiveros](mailto:jm.ontiveros94@gmail.com).
   
